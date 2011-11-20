@@ -1,0 +1,13 @@
+URxvt.depth:      32
+URxvt.background: rgba:3f00/3f00/3f00/dddd
+!If that color does not work properly, try:
+!urxvt*background: rgba:1111/1111/1111/dddd
+
+Urxvt.font: xft:monaco:size=10U
+
+
+!URxvt.perl-ext-common:  default,matcher
+URxvt.urlLauncher:      /usr/bin/chromium
+URxvt.matcher.button:   1 
+!URxvt.perl-ext-common:  default,tabbed
+
