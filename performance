@@ -1,0 +1,4 @@
+#!/bin/bash
+cpufreq-set -c 1 -g performance
+cpufreq-set -c 1 -g performance
+

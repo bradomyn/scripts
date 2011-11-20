@@ -1,0 +1,5 @@
+#!/bin/bash
+cpufreq-set -c 0 -g cpufreq_powersave
+
+cpufreq-set -c 1 -g cpufreq_powersave
+

@@ -1,0 +1,3 @@
+#!/bin/bash
+
+ssh -t -t cprados@lxetch32.gsi.de 'ssh -t -t bradomyn@140.181.117.214 'vifm''
