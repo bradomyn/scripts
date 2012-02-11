@@ -1,0 +1,3 @@
+#!/bin/bash
+sshfs bradomyn@140.181.117.214:/home/bradomyn/Downloads temp1    
+

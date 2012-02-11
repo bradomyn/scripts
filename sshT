@@ -1,0 +1,5 @@
+#!/bin/bash
+
+#ssh -f -N -L 51528:bradomyn@140.181.117.214:51527 -2 cprados@lxlenny32.gsi.de
+
+ssh -f cprados@lxlenny32.gsi.de -L 51529:bradomyn@140.181.117.214:22 -N

@@ -1,0 +1,2 @@
+Host 140.181.117.214
+ProxyCommand ssh cprados@lxlenny32.gsi.de nc %h %p  # or netcat or whatever you have on hostB
