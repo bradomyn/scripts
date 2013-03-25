@@ -1,0 +1,2 @@
+#!/bin/bash
+sshfs /home/bradomyn/temp bradomyn@192.168.178.38:/home/bradomyn

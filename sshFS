@@ -1,3 +1,5 @@
 #!/bin/bash
-sshfs bradomyn@140.181.117.214:/home/bradomyn/Downloads temp1    
+ssh -f cprados@lxlenny32.gsi.de -L 51531:bradomyn@140.181.117.214:22 -N
+
+sshfs bradomyn@140.181.117.214:/home/bradomyn/ temp
 

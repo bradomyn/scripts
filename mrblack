@@ -1,0 +1,2 @@
+#!/bin/bash
+ssh -Y bradomyn@192.168.178.38

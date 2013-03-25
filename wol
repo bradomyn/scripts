@@ -1,0 +1,4 @@
+#!/bin/bash
+
+#wol -i  192.168.178.38 bc:5f:f4:01:d9:fd
+wol bc:5f:f4:01:d9:fd

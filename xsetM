@@ -1,3 +1,3 @@
 #!/bin/bash
 
-xset dpms 580 660 720
+xset dpms 10000 10000 10000
