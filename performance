@@ -1,4 +1,2 @@
 #!/bin/bash
-cpufreq-set -c 1 -g performance
-cpufreq-set -c 0 -g performance
-
+su -c  "cpupower frequency-set -g performance"
